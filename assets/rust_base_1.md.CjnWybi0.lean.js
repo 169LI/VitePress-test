@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.FkX_PEC8.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"rust/base/1.md","filePath":"rust/base/1.md","lastUpdated":1782648608000}'),s={name:"rust/base/1.md"};function r(o,c,n,d,p,_){return t(),a("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};

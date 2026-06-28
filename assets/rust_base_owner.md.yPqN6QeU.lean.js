@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.FkX_PEC8.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"rust/base/owner.md","filePath":"rust/base/owner.md","lastUpdated":1782648608000}'),r={name:"rust/base/owner.md"};function s(o,n,c,d,p,_){return t(),a("div")}const f=e(r,[["render",s]]);export{m as __pageData,f as default};
