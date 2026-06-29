@@ -5,8 +5,8 @@ import { set_sidebar } from "../utils/auto-sidebar.js";
 export default defineConfig({
   base: "/VitePress-test/",
   // srcDir: "docs", // 配置md文档的映射目录
-  title: "我的文档",
-  description: "A VitePress Site",
+  title: "",
+  description: "",
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -61,7 +61,7 @@ export default defineConfig({
     socialLinks: [{ icon: "github", link: "https://github.com/169LI" }],
     // 底部配置
     footer: {
-      message: 'Released under the <a href="">MIT License</a>.',
+      message: 'Released under the <a href="https://github.com/169LI/VitePress-test/blob/main/LICENSE.md">MIT License</a>.',
       copyright:
         'Copyright © 2025-present <a href="https://github.com/169LI">Quan Li</a>',
     },
